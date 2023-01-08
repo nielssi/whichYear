@@ -1,5 +1,6 @@
 # 12.12.2022 This code grabs frontal images (from a series of porsche 911 calendars) and trains correct classification of any frontal image to year/ series
 # To do: implement the model into openCV analysis via Smartphone camera feed to allow the classifier to be active in the wild
+
 # First, import of the required libraries
 import os
 import numpy as np
